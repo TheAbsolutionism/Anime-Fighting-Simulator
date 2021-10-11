@@ -1,3 +1,9 @@
+['Version 1.1.6'] = {
+    ['Fixed'] = {
+        '- GUI Not Popping Up!';
+        '- Hopefully Loadstring of the GUI Library';
+    };
+};
 ['Version 1.1.5'] = {
     ['ReWorked'] = {
         '= Library';
